@@ -1,0 +1,11 @@
+#!/bin/bash
+pwd
+ls
+pwd /alx-system_engineering-devops/0x00-shell_basics$
+clear
+
+
+
+
+#!/bin/bash
+/alx-system_engineering-devops/0x00-shell_basics
